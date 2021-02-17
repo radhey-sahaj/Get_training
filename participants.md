@@ -2,6 +2,10 @@
 
 Classes on JS, React, redux and other tools for Front end development.
 
+Trainer: Radheshyam Etikala
+
+
 ### Participants
 
-Trainer: Radheshyam Etikala
+Please add you name here.
+
