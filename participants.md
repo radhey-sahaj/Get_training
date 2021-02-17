@@ -6,4 +6,4 @@ Classes on JS, React, redux and other tools for Front end development.
 
 Trainer: Radheshyam Etikala
 
-Manasi Bendre
+-Manasi Bendre
