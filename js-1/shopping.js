@@ -1,4 +1,4 @@
-data = [
+const data = [
   ['apple', 'Fruit', 'isEdible', 40],
   ['Lays', 'Processed Food', 'isEdible', 10],
   ['Pen', 'Stationary', 'isNotEdible', 11],
@@ -13,10 +13,28 @@ data = [
 
 // Create a shopping items
 // result = [ { name: 'apple', category: 'Fruit', isEdible: true, price: 40 }, ... ]
-function createListOfObjects(data) {}
+function createListOfObjects(data) {
 
-//sort by given parameter. sorting Parameter eg: 'category' | 'price' etc
-function sortList(sortingParameter)
+  //var list=[];
+  
+    var obj={};
+    for(var i=0;i<obj.length;i++)
+    {
+    obj['name']=data[i][1];
+    obj['category']=data[i][2];
+    obj['isEdible']=data[i][3];
+    obj['price']=data[i][4];
+    }
+    return obj;
+    //console.log(obj)
 
-//return list of items by category eg: 'Fruit' | 'Appliance'
-function selectByCatergory(category)
+
+
+}
+
+
+// //sort by given parameter. sorting Parameter eg: 'category' | 'price' etc
+// function sortList(sortingParameter)
+
+// //return list of items by category eg: 'Fruit' | 'Appliance'
+// function selectByCatergory(category)
