@@ -8,4 +8,6 @@ Trainer: Radheshyam Etikala
 ### Participants
 
 Please add you name here.
+-Manasi Bendre
 -Sakshi Khatod
+-Tejaswini Jadhav
