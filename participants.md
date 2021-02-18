@@ -7,11 +7,5 @@ Trainer: Radheshyam Etikala
 
 ### Participants
 
-<<<<<<< HEAD
-Trainer: Radheshyam Etikala
-
--Sakshi Khatod
-=======
 Please add you name here.
-
->>>>>>> main
+-Sakshi Khatod
