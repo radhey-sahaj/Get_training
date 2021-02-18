@@ -9,3 +9,5 @@ Trainer: Radheshyam Etikala
 
 Please add you name here.
 -Manasi Bendre
+-Sakshi Khatod
+-Tejaswini Jadhav
