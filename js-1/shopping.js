@@ -10,6 +10,12 @@ const sampleData = [
   ['Drill', 'Power Tool', 'isNotEdible', 2200],
 ];
 
+
+// constraints:
+// no for loops
+// no var or let
+// no side effects
+
 // Create a list of items
 // result = [ { name: 'apple', category: 'Fruit', isEdible: true, price: 40 }, ... ]
 function createListOfObjects(data) {}
