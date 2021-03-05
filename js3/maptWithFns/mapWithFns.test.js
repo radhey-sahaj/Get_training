@@ -1,4 +1,3 @@
-const { it, expect } = require('@jest/globals');
 const map = require('./mapWithFns');
 
 describe('testing mapWithFns', () => {
