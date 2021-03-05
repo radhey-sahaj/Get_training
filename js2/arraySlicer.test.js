@@ -1,6 +1,6 @@
 const sliceArray = require('./arraySlicer');
 
-test.skip('should slice array by given length and return array of arrays', () => {
+test('should slice array by given length and return array of arrays', () => {
   const array = [1, 2, 3, 4, 5, 6, 7];
   expect(sliceArray(array, 3)).toEqual([[1, 2, 3], [4, 5, 6], [7]]);
   expect(sliceArray(array, 2)).toEqual([[1, 2], [3, 4], [5, 6], [7]]);
