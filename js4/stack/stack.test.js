@@ -30,11 +30,11 @@ describe('testing stack', () => {
   });
 
   test('should be able to define stack size', () => {
-    const stack = new Stack(3);
+    const stack = new Stack(2);
 
     stack.push(1);
     stack.push(2);
 
-    expect(() => stack.push(3)).toThrow('stack overflow, limit reached');
+    expect(() => stack.push(3)).toThrow('Stack overflow, limit reached');
   });
 });
